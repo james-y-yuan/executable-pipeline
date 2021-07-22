@@ -1,0 +1,11 @@
+*.pyc
+*.csv
+*.psydat
+*.exe
+*.zip
+*.log
+*.pptx
+__pycache__/
+build/
+dist/
+data/
